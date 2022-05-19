@@ -2,6 +2,10 @@
 
 This a Pytorch implementation of our paper "Super Vision Transformer" 
 
+## Introduction
+
+We present a novel training paradigm that trains only one ViT model at a time, but is capable of providing improved image recognition performance with various computational costs. Here, the trained ViT model, termed super vision transformer (SuperViT), is empowered with the versatile ability of solving incoming patches of multiple sizes as well as preserving informative tokens with multiple keeping rates (the probability of keeping tokens) to achieve a good hardware efficiency for inference.
+
 ## Pre-trained Models
 
 ### SuperViT(DeiT-S) 
