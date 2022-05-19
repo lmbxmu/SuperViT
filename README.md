@@ -1,4 +1,4 @@
-# Super Vision Transformer
+# Super Vision Transformer (Paper coming soon)
 
 This a Pytorch implementation of our paper "Super Vision Transformer" 
 
