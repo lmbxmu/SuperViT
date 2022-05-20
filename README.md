@@ -12,7 +12,7 @@ We present a novel training paradigm that trains only one ViT model at a time, b
 - checkpoints:[Google Drive](https://drive.google.com/file/d/1y2-zU5UvHqGCmWEB41VLbnf7B27BatBL/view?usp=sharing)
 - log: [Google Drive](https://drive.google.com/file/d/1PPV1PC3-QkI2XIT81RTs-8E6ixmQE0cn/view?usp=sharing)
 
-|token numer\keep ratio|0.5|0.7|1|
+|token number\keep ratio|0.5|0.7|1|
 |-----|-----|-----|-----|
 |8x8| 73.75 | 75.28 | 75.79 |
 |10x10| 77.32 | 78.31 | 78.53 |
@@ -23,7 +23,7 @@ We present a novel training paradigm that trains only one ViT model at a time, b
 - checkpoints:[Google Drive](https://drive.google.com/file/d/1xjKrelbFQchaaulMm0bLUftD0h10hRJa/view?usp=sharing)
 - log: [Google Drive](https://drive.google.com/file/d/1HsiWjWzp-JzKQc82iiWaIiDUfkmqFOpb/view?usp=sharing)
 
-|token numer\keep ratio|0.5|0.7|1|
+|token number\keep ratio|0.5|0.7|1|
 |-----|-----|-----|-----|
 |8x8| 76.64 | 79.82 | 80.71 |
 |10x10| 79.81 | 81.73 | 82.24  |
