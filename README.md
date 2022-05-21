@@ -1,6 +1,6 @@
 # Super Vision Transformer (Paper coming soon)
 
-This a Pytorch implementation of our paper "Super Vision Transformer" ( https://visitor-badge.glitch.me/badge?page_id=lmbxmu.supervit)
+This a Pytorch implementation of our paper "Super Vision Transformer" []( https://visitor-badge.glitch.me/badge?page_id=lmbxmu.supervit)
 
 ## Introduction
 
