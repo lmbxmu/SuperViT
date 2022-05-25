@@ -41,7 +41,6 @@ We present a novel training paradigm that trains only one ViT model at a time, b
 - python 3.9.7
 - pytorch 1.10.1
 - torchvision 0.11.2
-- apex 
 
 
 ## Data Preparation
