@@ -90,7 +90,7 @@ python -m torch.distributed.launch --nproc_per_node=4 main_lvvit.py PATH_TO_IMAG
 
 
 ## Acknowledgment
-Our code of LV-ViT is from [here](https://github.com/zihangJiang/TokenLabeling). Our code of DeiT is from [here](https://github.com/facebookresearch/deitzhe). 
+Our code of LV-ViT is from [here](https://github.com/zihangJiang/TokenLabeling). Our code of DeiT is from [here](https://github.com/facebookresearch/deit). 
 
 ## Contact
 First author: lmb001@outlook.com; Second author: cmzxmu@stu.xmu.edu.cn
