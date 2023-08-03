@@ -1,6 +1,6 @@
 # Super Vision Transformer ([Link](https://arxiv.org/abs/2205.11397))
 
-Pytorch implementation of our paper "Super Vision Transformer" ![]( https://visitor-badge.glitch.me/badge?page_id=lmbxmu.supervit)
+Pytorch implementation of our paper "Super Vision Transformer", accepted by International Journal of Computer Vision (IJCV)
 
 ## Introduction
 
